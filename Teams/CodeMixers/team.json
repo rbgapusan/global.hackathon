@@ -1,5 +1,5 @@
 {
-  "teamName": "Team CodeMixers",
+  "teamName": "CodeMixers",
   "members": [
     {
       "name": "Restie Gapusan",
@@ -13,6 +13,12 @@
       "twitter": "",
       "koding": "shanee",
       "location": "Brisbane, AU",
+    },
+    {
+      "name": "Jamie Harding",
+      "twitter": "",
+      "koding": "CoolerUK",
+      "location": "London, UK"
     }
   ]
 }
